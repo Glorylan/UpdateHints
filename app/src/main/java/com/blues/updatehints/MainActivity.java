@@ -88,7 +88,6 @@ public class MainActivity extends AppCompatActivity {
                     pd.dismiss();
                 } catch (Exception e) {
                     pd.dismiss();
-
                 }
             }
         }.start();
